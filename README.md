@@ -11,13 +11,13 @@
 Voici la version 3 de mon application Web Radio sur UNO-Q, 
 Ici il s'agit juste de faire un rappel des versions précécdentes et de comparer les 3 :
 
-- Version 0 :
+- Version 0 :  
 👉 https://github.com/philippe86220/UNO-Q--WebRadio
 
-- Version 1 :
+- Version 1 :  
 👉 https://github.com/philippe86220/UNO-Q-WebRadio-Modulino-LCD
 
-- Version 2 :
+- Version 2 :  
 👉 https://github.com/philippe86220/UNO-Q-WebRadio---LCD---Modulino-BUTTONS (👉 **celle-ci**)
 
 ---
