@@ -7,7 +7,7 @@ Ici il s'agit juste de faire un rappel des versions précécdentes et de compare
 👉 https://github.com/philippe86220/UNO-Q--WebRadio
 
 - Version 1 :
-👉 https://github.com/philippe86220/UNO-Q--WebRadio
+👉 https://github.com/philippe86220/UNO-Q-WebRadio-Modulino-LCD
 
 ---
 
