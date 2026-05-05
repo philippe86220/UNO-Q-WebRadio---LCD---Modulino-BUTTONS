@@ -64,5 +64,5 @@ Ces projets ont bénéficié d’échanges techniques et de réflexions d’arch
 - la répartition des rôles MPU / MCU
 - l’utilisation du Bridge
 - la structuration globale du système sur UNO Q
-- 
+  
 Ces contributions concernent l’ensemble des trois approches présentées (V0, V1, V2).
