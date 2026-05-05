@@ -52,3 +52,13 @@ Ici il s'agit juste de faire un rappel des versions précécdentes et de compare
 - V0 = UI Web → MPU pilote
 - V1 = MCU + MPU → MPU pilote
 - V2 = MCU + MPU → MCU pilote
+
+---
+
+### Remerciements
+
+Ces projets ont bénéficié d’échanges techniques et de réflexions d’architecture avec ChatGPT (OpenAI), notamment sur :
+- la répartition des rôles MPU / MCU
+- l’utilisation du Bridge
+- la structuration globale du système sur UNO Q
+Ces contributions concernent l’ensemble des trois approches présentées (V0, V1, V2).
