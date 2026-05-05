@@ -17,8 +17,8 @@ Ici il s'agit juste de faire un rappel des versions précécdentes et de compare
 - Version 1 :
 👉 https://github.com/philippe86220/UNO-Q-WebRadio-Modulino-LCD
 
-- Version 2  👉 *celle-ci* :
-👉 https://github.com/philippe86220/UNO-Q-WebRadio---LCD---Modulino-BUTTONS
+- Version 2 :
+👉 https://github.com/philippe86220/UNO-Q-WebRadio---LCD---Modulino-BUTTONS (👉 **celle-ci**)
 
 ---
 
